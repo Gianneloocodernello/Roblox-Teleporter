@@ -13,4 +13,4 @@ teleporter.Touched:Connect(function(hit)
 end)
 
 
-(Name the part "Teleporter" then name the part to which the player would be teleported to "Destination")
+(Name the part "Teleporter" then name the part to which the player would be teleported to "Destination" )
